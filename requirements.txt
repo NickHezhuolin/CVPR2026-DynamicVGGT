@@ -1,0 +1,20 @@
+torch==2.3.1
+torchvision==0.18.1
+numpy==1.26.1
+Pillow
+huggingface_hub
+einops
+safetensors
+opencv-python
+hydra-core
+omegaconf
+fvcore
+iopath
+scikit-learn
+scipy
+matplotlib
+# utils3d is required for training; install separately if pip resolution fails:
+# pip install utils3d
+
+# Optional: Gaussian-splatting heads
+# gsplat

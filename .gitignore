@@ -1,0 +1,15 @@
+**__pycache__
+kernel_meta
+output
+.idea/
+.vscode/
+.env
+*.log
+tensorboard/
+logs/
+*tfevents*
+*scannet*.jsonl
+*.jsonl
+*.pcd
+*checkpoint.pt
+*.egg-info/
