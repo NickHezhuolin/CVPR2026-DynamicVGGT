@@ -1,0 +1,1 @@
+# CVPR2026-DynamicVGGT
